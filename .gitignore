@@ -7,3 +7,4 @@ output*.png
 *.mb
 __pycache__
 *.psd
+.idea
