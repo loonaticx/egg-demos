@@ -18,7 +18,7 @@ egg-mkfont -ppu 100 -ps 40 Comedy.ttf -o hq/output.egg 1>> hq/info.txt 2>>&1
 rmdir /s /q gp
 mkdir gp
 egg-mkfont -gp %03d Comedy.ttf -o gp/output.egg 1> gp/info.txt 2>&1
-rem Different results happen if you append the -nopal flag here. (Not suppose to be using this without nopal flag technically)
+:: Different results happen if you append the -nopal flag here. (Not suppose to be using this without nopal flag technically)
 
 rmdir /s /q unicode
 mkdir unicode

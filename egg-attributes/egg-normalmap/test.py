@@ -1,3 +1,9 @@
+"""
+test module
+
+@author: Loonatic
+"""
+
 from direct.showbase.ShowBase import ShowBase
 from pathlib import Path
 from tkinter.filedialog import askopenfilename

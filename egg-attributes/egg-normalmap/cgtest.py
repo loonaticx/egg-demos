@@ -1,3 +1,8 @@
+"""
+test module
+
+@author: Loonatic
+"""
 
 # old https://discourse.panda3d.org/t/per-pixel-lighting/474/9
 
